@@ -27,7 +27,3 @@
 </div><br/>
 
 #### Conhecimento parado é conhecimento inutilizado. Coloque em prática tudo o que aprendeu.
-
-## Entre em contato:
-- [Email de contato/ Guidostoccodev@gmail.com](https://mail.google.com)<br/>
-- [Whatsapp (73) 991152207]()
