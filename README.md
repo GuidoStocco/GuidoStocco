@@ -18,6 +18,8 @@
     <img align="center" alt="HTML5"src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
      <img align="center" alt="REACTNATIVE"src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="REACTNATIVE"src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img align="center" alt="REACTNATIVE"src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    <img align="center" alt="REACTNATIVE"src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     
 
     
