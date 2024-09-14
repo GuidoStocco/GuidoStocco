@@ -5,7 +5,7 @@
 [![Instagram](	https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Guido_Stocco)
 
 
-![Guido Githup stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoStocco&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 #### Tecnologias que eu uso no meu dia
 <div Style= "display: inline_block"><br/>
